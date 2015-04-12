@@ -1,0 +1,1064 @@
+[
+    {text:"Everything I touch turns to ?",
+        params:[
+            {pos:"substance"}
+            ]},
+    {text:"They say the moon is made of ?",
+        params:[
+            {pos:"substance"}
+            ]},
+    {text:"I built |a/n| ? out of ?",
+        params:[
+            {pos:"noun"},
+            {pos:"substance"}
+            ]},
+    {text:"They call me the Man of ?",
+        params:[
+            {pos:"substance", capital:true}
+            ]},
+    {text:" ? in space",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:" ? dancing with ?",
+        params:[
+            {pos:"hero"},
+            {pos:"villain"}
+            ]},
+    {text:"Go go gadget ?",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"I ? |a/n| ? and I liked it",
+        params:[
+            {pos:"verb-transitive", form:3},
+            {pos:"noun"}
+            ]},
+    {text:"The piñata burst, raining ? onto the party-goers",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"The least popular Spice Girl, ? Spice",
+        params:[
+            {pos:"adjective", capital:true}
+            ]},
+    {text:"A dating website for ? people",
+        params:[
+            {pos:"adjective"}
+            ]},
+    {text:"Finally, a dating website for ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"Look out for the monster ?topus!",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:" ?'s one weakness: ?",
+        params:[
+            {pos:"hero"},
+            {pos:"noun", plural:true, capital:true}
+            ]},
+    {text:"I had that dream again where I was ? in school",
+        params:[
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"We are throwing |a/n| ? themed party",
+        params:[
+            {pos:"abstract"}
+            ]},
+    {text:" ? has taken over the world with |pos| army of ?",
+        params:[
+            {pos:"villain"},
+            {pos:"noun", plural:true}
+            ]},
+    {text:" ? Man stops the villain's plot",
+        params:[
+            {pos:"abstract", capital:true}
+            ]},
+    {text:"Be careful, they say these woods hide evil ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+
+    {text:"Samuel Jackson in \" ? on a Plane\"",
+        params:[
+            {pos:"noun", plural:true, capital:true}
+            ]},
+    {text:"The 11th Plague of Egypt: ?",
+        params:[
+            {pos:"noun", plural:true, capital:true}
+            ]},
+    {text:"Archaeologists have found the remains of an ancient ?",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"This museum houses the skeleton of a giant ?",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"We've found a cult which worships ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"I have the strangest feeling |a/n| ? is following me",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"The townsfolk have erected a statue celebrating ?",
+        params:[
+            {pos:"abstract"}
+            ]},
+    {text:"If ? were replaced with ?",
+        params:[
+            {pos:"noun", plural:true},
+            {pos:"noun", plural:true}
+            ]},
+    {text:"It was Colonel Mustard in the study with the ?",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"The magician pulled |a/n| ? out of his hat",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"The journalist caught the politician ?",
+        params:[
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"The mime is pretending to ?",
+        params:[
+            {pos:"verb-intransitive", form:0}
+            ]},
+    {text:"After leaving the limelight, ? went on to ? ?",
+        params:[
+            {pos:"celeb"},
+            {pos:"verb-transitive", form:0},
+            {pos:"noun", plural:true}
+            ]},
+    {text:" ? really showed |pos| ? when |pro| was ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"abstract"},
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:" ? and ? perform \"Who's on First?\"",
+        params:[
+            {pos:"hero"},
+            {pos:"villain"}
+            ]},
+    {text:"Look out! The ? is mutating into |a/n| ?!",
+        params:[
+            {pos:"noun"},
+            {pos:"noun"}
+            ]},
+    {text:"The latest fad is hats that look like ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:" ? and |pos| evil twin are fighting!",
+        params:[
+            {pos:"celeb"}
+            ]},
+    {text:" ? and ? in a buddy cop movie",
+        params:[
+            {pos:"celeb"},
+            {pos:"hero"}
+            ]},
+    {text:"The genie granted my wish for a lifetime supply of ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:" ? was cursed to spend the rest of |pos| life as |a/n| ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"noun"}
+            ]},
+    {text:"The latest trend: Pocket ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"Oh no! ? is ? the mayor's ?!",
+        params:[
+            {pos:"villain"},
+            {pos:"verb-transitive", form:2},
+            {pos:"noun"}
+            ]},
+    {text:"I think that ? is trying to ? us",
+        params:[
+            {pos:"noun"},
+            {pos:"verb-transitive", form:0}
+            ]},
+    {text:"In my line of work you ? your fair share of ?",
+        params:[
+            {pos:"verb-transitive", form:0},
+            {pos:"noun", plural:true}
+            ]},
+    {text:"Please do not touch the ?, it is an antique",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"I think there's |a/n| ? hiding under my bed...",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"It's the latest news, \"President ? British Prime Minister\"",
+        params:[
+            {pos:"verb-transitive", form:1}
+            ]},
+    {text:" ? wanted to join |pos| friends in ? ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"verb-transitive", form:2},
+            {pos:"noun", plural:true}
+            ]},
+    {text:"I'd like a cheese burger with extra ? please",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:" ? doing a commercial for |a/n| ?",
+        params:[
+            {pos:"celeb"},
+            {pos:"noun"}
+            ]},
+    {text:" ? took a job delivering ? by bicycle",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"noun", plural:true}
+            ]},
+    {text:"My high school football team has an embarrassing mascot, the ? ?",
+        params:[
+            {pos:"adjective", capital:true},
+            {pos:"noun", capital:true}
+            ]},
+    {text:"Tim Burton's original draft-Edward ?hands",
+        params:[
+            {pos:"noun", capital:true}
+            ]},
+    {text:"A world without ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"Wait, if you're here then who did I just ??",
+        params:[
+            {pos:"verb-transitive", form:0}
+            ]},
+    {text:"And now we add the secret ingredient: ?",
+        params:[
+            {pos:"noun", plural:true, capital:true}
+            ]},
+    {text:"I think ? was offended by our ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"I was hired for my ? abilities",
+        params:[
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"This luxury hotel has ? in the minibar",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"Why you shouldn't ? |a/n| ? while drinking",
+        params:[
+            {pos:"verb-transitive", form:0},
+            {pos:"noun"}
+            ]},
+    {text:"What happens when ? people ?",
+        params:[
+            {pos:"adjective"},
+            {pos:"verb-intransitive", form:0}
+            ]},
+    {text:"I made a sandcastle shaped like |a/n| ?",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"It isn't safe to ? without |a/n| ?",
+        params:[
+            {pos:"verb-intransitive", form:0},
+            {pos:"noun"}
+            ]},
+    {text:"The person who stole my car looked a lot like ? but more ?",
+        params:[
+            {pos:"celeb"},
+            {pos:"adjective"}
+            ]},
+    {text:" ? was hypnotized into thinking |pro| was |a/n| ?",
+        params:[
+            {pos:"subject"},
+            {pos:"noun"}
+            ]},
+    {text:"The newest addition to Mt. Rushmore, ?",
+        params:[
+            {pos:"celeb"}
+            ]},
+    {text:"Back in my day people were more ?",
+        params:[
+            {pos:"adjective"}
+            ]},
+    {text:"Grandpa's telling his story about the ? ? again",
+        params:[
+            {pos:"adjective"},
+            {pos:"noun", plural:true}
+            ]},
+    {text:"I will trade you my ? for your ?",
+        params:[
+            {pos:"noun"},
+            {pos:"noun"}
+            ]},
+    {text:"This tree grows ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"I built a machine to ? for me",
+        params:[
+            {pos:"verb-intransitive", form:0}
+            ]},
+    {text:"Sir, step away from the ? and put your hands up",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"The crooks distract the guards by ?",
+        params:[
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"The worst possible place to ? |a/n| ?",
+        params:[
+            {pos:"verb-transitive", form:0},
+            {pos:"noun"}
+            ]},
+    {text:"This new restaurant specializes in fried ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"Our dog is just so ?",
+        params:[
+            {pos:"adjective"}
+            ]},
+    {text:"It takes |a/n| ? man to ? so ?",
+        params:[
+            {pos:"adjective"},
+            {pos:"verb-intransitive", form:0},
+            {pos:"adverb"}
+            ]},
+    {text:"Most people don't know how ? ? is",
+        params:[
+            {pos:"adjective"},
+            {pos:"celeb"}
+            ]},
+    {text:"People were shocked to find ? ? ?",
+        params:[
+            {pos:"villain"},
+            {pos:"verb-transitive", form:2},
+            {pos:"hero"}
+            ]},
+    {text:"The old timey strong man lifted three ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"Oh no! ? has tied ? to the train tracks!",
+        params:[
+            {pos:"villain"},
+            {pos:"celeb"}
+            ]},
+    {text:"In this town we use ? as currency",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"Few people have seen Dalí's early paintings of melting ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:" ? has an unorthodox way of ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"Deep into the underground ? mines",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:" ? has been working much harder since they started paying |opr| in ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"noun", plural:true}
+            ]},
+    {text:"It looks like the protesters are against ? ?",
+        params:[
+            {pos:"verb-transitive", form:2},
+            {pos:"noun", plural:true}
+            ]},
+    {text:"He died doing what he loved... ?",
+        params:[
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"I'm |a/n| ? hoarder",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"In |pos| new show, ? showcases exotic ?",
+        params:[
+            {pos:"celeb"},
+            {pos:"noun", plural:true}
+            ]},
+    {text:"The witch turned me into |a/n| ?",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"Today I held the door open for |a/n| ?",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"There's a big sale going on at the ? store",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"Most textbooks leave out how ? George Washington was",
+        params:[
+            {pos:"adjective"}
+            ]},
+    {text:"This new vending machine sells only ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"I love ? so much I married one!",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:" ? is cosplaying as ?, and is not doing very well",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"hero"}
+            ]},
+    {text:"I bought a portrait of ? painted by Picasso",
+        params:[
+            {pos:"celeb"}
+            ]},
+    {text:"The first meeting of the ? ? Club",
+        params:[
+            {pos:"noun", capital:true},
+            {pos:"verb-transitive", form:2, capital:true}
+            ]},
+    {text:"Have you tried the spaghetti and ??",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"Going fishing for ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"I'm very good at shadow puppets. Look, I can make |a/n| ?!",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:" ? was awarded employee of the month for |pos| dedication to ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"Did you see that viral video where ? ? |a/n| ??",
+        params:[
+            {pos:"celeb"},
+            {pos:"verb-transitive", form:3},
+            {pos:"noun"}
+            ]},
+    {text:"The paparazzi catch ? ?",
+        params:[
+            {pos:"celeb"},
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"Gregor Samsa woke up to find himself changed into a monstrous ?",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"Scientists are working hard on their nuclear powered ?",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:" ? is a multi-tasker, |pro| can ? while |pro| ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"verb-intransitive", form:0},
+            {pos:"verb-intransitive", form:1}
+            ]},
+    {text:"Archaeologists have found the lost ? of King Tut",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"Stop this man before he ? another ?",
+        params:[
+            {pos:"verb-transitive", form:1},
+            {pos:"noun"}
+            ]},
+    {text:" ? is working on |pos| addiction to ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"noun", plural:true}
+            ]},
+    {text:"A truck carrying a load of ? has overturned on the highway",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"This house is being haunted by the ghost of |a/n| ?",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"I didn't know they let ? drive cars",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"I never go camping without my ?",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"Please don't ? in the store",
+        params:[
+            {pos:"verb-intransitive", form:0}
+            ]},
+    {text:"The acrobat juggled three ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"Run for your life, it's |a/n| ? ?!",
+        params:[
+            {pos:"adjective"},
+            {pos:"noun"}
+            ]},
+    {text:"It is a fine day for ? ?",
+        params:[
+            {pos:"verb-transitive", form:2},
+            {pos:"noun", plural:true}
+            ]},
+    {text:"Those ? always did seem a bit ?",
+        params:[
+            {pos:"noun", plural:true},
+            {pos:"adjective"}
+            ]},
+    {text:"That ? was very rude...",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:" ? is the best at ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"This is not the time to be ?",
+        params:[
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:" ? ? ? ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"verb-transitive", form:1},
+            {pos:"noun", plural:true},
+            {pos:"adverb"}
+            ]},
+    {text:"The world's largest ?",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"The world's smallest ?",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"I found |a/n| ? in my ?",
+        params:[
+            {pos:"noun", plural:false},
+            {pos:"noun", plural:false}
+            ]},
+    {text:"The ? thieves are planning their heist",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"The ? thieves are very ?",
+        params:[
+            {pos:"noun", plural:false},
+            {pos:"adjective"}
+            ]},
+    {text:"Where did all these ? come from?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:" ? cannot sleep since the ? began ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"noun", plural:true},
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"An elegant ?",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"Everyone knows ? has been ? ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"verb-transitive", form:2},
+            {pos:"noun", plural:true}
+            ]},
+    {text:"My house is full of ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:" ? dances for ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"noun", plural:true}
+            ]},
+    {text:"I like to start each day with a big bowl of ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"I hate ? because |pro| won't stop ?",
+        params:[
+            {pos:"subject", gender:"m"},
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"It was such a beautiful wedding until ? started ? |pos| ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"verb-transitive", form:2},
+            {pos:"noun", plural:true}
+            ]},
+    {text:"|a/n| ? ?",
+        params:[
+            {pos:"adjective"},
+            {pos:"noun", plural:false}
+            ]},
+    {text:"Quick, get on the ?, there's no time to explain!",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"The party finally ended when ? ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"verb-intransitive", form:3}
+            ]},
+    {text:"The party finally ended when ? ? |pos| ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"verb-transitive", form:3},
+            {pos:"noun", plural:false}
+            ]},
+    {text:" ? in the middle of the street",
+        params:[
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"Things haven't been the same since that ? family moved in next door",
+        params:[
+            {pos:"adjective"}
+            ]},
+    {text:"Hey, that cloud looks like |a/n| ?",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"Hard at work at the ? factory",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"This is the least ? ? I have ever seen",
+        params:[
+            {pos:"adjective"},
+            {pos:"noun", plural:false}
+            ]},
+    {text:"Last night I slept on |a/n| ?",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"Secretly, ? likes to ? ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"verb-transitive", form:0},
+            {pos:"noun", plural:true}
+            ]},
+    {text:"Beware of ?",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"Secretly, I'm |a/n| ?",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:" ? fight!",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"Help! I can't stop ?",
+        params:[
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"I'm training for the ? ? contest",
+        params:[
+            {pos:"noun", plural:false},
+            {pos:"verb-transitive", form:2}
+            ]},
+    {text:"Watch your step, the ? are ?",
+        params:[
+            {pos:"noun", plural:true},
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"My best friend is |a/n| ? ?",
+        params:[
+            {pos:"adjective"},
+            {pos:"noun", plural:false}
+            ]},
+    {text:"I caught the bank robber with my ?",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"My doctor told me I need less ? in my diet",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"The little known fourth wise man, Jeff, who brought |a/n| ? for the baby Jesus",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:"This park has a statue dedicated to ?",
+        params:[
+            {pos:"celeb"}
+            ]},
+    {text:"This mural is dedicated to ?",
+        params:[
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:" ? is a performance artist known for ? ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"verb-transitive", form:2},
+            {pos:"noun", plural:true}
+            ]},
+    {text:" ? has been sleep ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"I never thought it would end like this, being ? by a pack of ?",
+        params:[
+            {pos:"verb-transitive", form:3},
+            {pos:"noun", plural:true}
+            ]},
+    {text:" ? has been ? ? in |pos| sleep",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"verb-transitive", form:2},
+            {pos:"noun", plural:true}
+            ]},
+    {text:"Doctor, can you remove this ? from my ear?",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"The birthday was attacked by ?!",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"Does this ? make me look fat?",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"You may laugh, but this ? put me though college",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"|a/n| ? man robs a bank",
+        params:[
+            {pos:"adjective"}
+            ]},
+    {text:" ?, meet sledgehammer",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"My robot runs on ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"The jester ? for the King's amusement",
+        params:[
+            {pos:"verb-intransitive", form:3}
+            ]},
+    {text:"I just met |a/n| ? wearing a cowboy hat",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"What you get when you cross |a/n| ? with a rhinoceros",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"It's raining ? and ?",
+        params:[
+            {pos:"noun", plural:true},
+            {pos:"noun", plural:true}
+            ]},
+    {text:"The ? raced an ostrich",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"I am |a/n| ?, so I know a thing or two about ?",
+        params:[
+            {pos:"noun", plural:false},
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"That is one ? pumpkin!",
+        params:[
+            {pos:"adjective"}
+            ]},
+    {text:"Looks like I'm the only one who remembered my ? today",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"My ? has a bad haircut",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"There's |a/n| ? on the trampoline",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:" ? is learning to ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"verb-intransitive", form:0}
+            ]},
+    {text:"Why can't I hold all these ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"It's bring your ? to work day!",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"It's bring your ? to work day!",
+        params:[
+            {pos:"abstract"}
+            ]},
+    {text:"My dog can ? very well",
+        params:[
+            {pos:"verb-intransitive", form:0}
+            ]},
+    {text:"Three blind ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"This ? tastes bad",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"This ? is hard to chew",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"Ow! I dropped |a/n| ? on my toe!",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"I'm painting a picture of |a/n| ?",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"Suddenly, everyone ?",
+        params:[
+            {pos:"verb-intransitive", form:3}
+            ]},
+    {text:"On your mark, get set, ?!",
+        params:[
+            {pos:"verb-intransitive", form:0}
+            ]},
+    {text:"I knew Jack couldn't jump over that ?",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"I knew Jack could jump over that ?",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:" ? ? take over!",
+        params:[
+            {pos:"adjective"},
+            {pos:"noun", plural:true}
+            ]},
+    {text:" ? take over!",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"I'm the world's foremost expert on ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"I'm the world's foremost expert on ?",
+        params:[
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"I happen to own the world's most ? ?",
+        params:[
+            {pos:"adjective"},
+            {pos:"noun", plural:false}
+            ]},
+    {text:"My tongue is stuck to a frozen ?!",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"Let's celebrate ? Day!",
+        params:[
+            {pos:"noun", plural:false, capital:true}
+            ]},
+    {text:"My new gadget is part ?, part ?",
+        params:[
+            {pos:"noun", plural:false},
+            {pos:"noun", plural:false}
+            ]},
+    {text:"In my dreams, I can ?",
+        params:[
+            {pos:"verb-intransitive", form:0}
+            ]},
+    {text:"Can't talk, gotta ?",
+        params:[
+            {pos:"verb-intransitive", form:0}
+            ]},
+    {text:"It's a bird, it's a plane, it's ? Man!",
+        params:[
+            {pos:"noun", plural:false, capital:true}
+            ]},
+    {text:"It's a bird, it's a plane, it's ? Man!",
+        params:[
+            {pos:"verb-intransitive", form:2, capital:true}
+            ]},
+    {text:"This is my collection of ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"Who let all these ? into the party?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"My ? is stuck in |a/n| ?",
+        params:[
+            {pos:"noun", plural:false},
+            {pos:"noun", plural:false}
+            ]},
+    {text:"If Dr. Seuss designed ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"The army has developed weaponized ?",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:" ? can't ? without |pos| ?",
+        params:[
+            {pos:"subject", gender:"?"},
+            {pos:"verb-intransitive", form:0},
+            {pos:"noun", plural:false}
+            ]},
+    {text:"I can't sleep without my ? tucked in beside me",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"The police have outlawed ?",
+        params:[
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"It is now illegal to ? your ?",
+        params:[
+            {pos:"verb-transitive", form:0},
+            {pos:"noun"}
+            ]},
+    {text:" ? has been ? for charity",
+        params:[
+            {pos:"celeb"},
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"I make good money by ? on the side",
+        params:[
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"All the ? joined in a conga line",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"The bakers made |a/n| ?-shaped cake",
+        params:[
+            {pos:"noun"}
+            ]},
+    {text:" ? starring in \"The ? ?\"",
+        params:[
+            {pos:"celeb"},
+            {pos:"adjective", capital:true},
+            {pos:"noun", capital:true}
+            ]},
+    {text:" ? is so rich |pro| has a person to ? for |opr|",
+        params:[
+            {pos:"celeb"},
+            {pos:"verb-intransitive", form:0}
+            ]},
+    {text:"The grand opening of the ? store",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"The ? are playing poker",
+        params:[
+            {pos:"noun", plural:true}
+            ]},
+    {text:"Look out, he's got |a/n| ?!",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"The fanciest ? in the world",
+        params:[
+            {pos:"noun", plural:false}
+            ]},
+    {text:"And over here is the award I got for ?",
+        params:[
+            {pos:"verb-intransitive", form:2}
+            ]},
+    {text:"Godzilla versus ?",
+        params:[
+            {pos:"hero"}
+            ]},
+    {text:"Godzilla versus ?",
+        params:[
+            {pos:"villain"}
+            ]},
+    {text:"Godzilla versus ?",
+        params:[
+            {pos:"celeb"}
+            ]},
+    {text:" ? pillow fighting ?",
+        params:[
+            {pos:"celeb"},
+            {pos:"villain"}
+            ]},
+    {text:" ? versus ?",
+        params:[
+            {pos:"celeb"},
+            {pos:"hero"}
+            ]},
+    {text:" ? debates ?",
+        params:[
+            {pos:"celeb"},
+            {pos:"villain"}
+            ]},
+    {text:" ? versus ?",
+        params:[
+            {pos:"hero"},
+            {pos:"villain"}
+            ]},
+    {text:"And now performing a loving duet, ? and ?",
+        params:[
+            {pos:"celeb"},
+            {pos:"villain"}
+            ]},
+    {text:" ? ruined my birthday party",
+        params:[
+            {pos:"villain"}
+            ]},
+    {text:" ?'s newest sitcom, \"That's My ?!\"",
+        params:[
+            {pos:"celeb"},
+            {pos:"noun", plural:false, capital:true}
+            ]},
+    {text:" ?'s bathroom",
+        params:[
+            {pos:"celeb"}
+            ]}
+]

@@ -1,0 +1,68 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!-- ======= -->
+    <!-- Dialogs -->
+    <!-- ======= -->
+        <style name="DialogExpandableTitle">
+            <item name="android:textSize">20sp</item>
+            <item name="android:background">#6666DD</item>
+            <item name="android:textColor">#FFFFFF</item>
+            <item name="android:padding">4dp</item>
+            <item name="android:layout_width">fill_parent</item>
+            <item name="android:layout_height">wrap_content</item>
+        </style>
+        <style name="DialogUserName">
+            <item name="android:layout_width">fill_parent</item>
+            <item name="android:layout_height">wrap_content</item>
+            <item name="android:inputType">textCapWords</item>
+            <item name="android:maxLength">15</item>
+            <item name="android:hint">@string/hint_dialog_name</item>
+        </style>
+        <style name="DialogPassword">
+            <item name="android:layout_width">fill_parent</item>
+            <item name="android:layout_height">wrap_content</item>
+            <item name="android:inputType">textPassword</item>
+            <item name="android:maxLength">40</item>
+            <item name="android:hint">@string/hint_dialog_pass</item>
+        </style>
+        <style name="DialogButton">
+            <item name="android:layout_width">fill_parent</item>
+            <item name="android:layout_height">wrap_content</item>
+        </style>
+
+    <!-- ============ -->
+    <!-- Game objects -->
+    <!-- ============ -->
+        <style name="RandomSentenceButton">
+            <item name="android:layout_width">fill_parent</item>
+            <item name="android:layout_height">wrap_content</item>
+        </style>
+        <style name="WriteCaptionText">
+            <item name="android:hint">@string/hint_write_caption</item>
+            <item name="android:imeOptions">actionDone</item>
+            <item name="android:maxLength">140</item>
+            <item name="android:inputType">textCapSentences</item>
+            <item name="android:layout_width">fill_parent</item>
+            <item name="android:layout_height">wrap_content</item>
+        </style>
+        <style name="ReceivedCaption">
+            <item name="android:layout_alignParentTop">true</item>
+            <item name="android:layout_alignParentLeft">true</item>
+            <item name="android:layout_width">fill_parent</item>
+            <item name="android:layout_height">wrap_content</item>
+        </style>
+        <style name="GameSubmitButton">
+            <item name="android:layout_width">wrap_content</item>
+            <item name="android:layout_height">wrap_content</item>
+            <item name="android:text">@string/btn_lbl_submit</item>
+        </style>
+        <style name="ReceivedDrawing">
+            <item name="android:layout_width">fill_parent</item>
+            <item name="android:layout_height">wrap_content</item>
+        </style>
+</resources>

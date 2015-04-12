@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- =============== -->
+    <!-- Activity titles -->
+    <!-- =============== -->
+        <string name="act_name_profile">User Profile</string>
+        <string name="act_name_start_game">New Game</string>
+        <string name="title_activity_online">Online</string>
+        <string name="title_activity_new_game">New Game</string>
+        <string name="title_activity_add_on">Dive In</string>
+
+    <!-- ===================== -->
+    <!-- Activity menu strings -->
+    <!-- ===================== -->
+        <!-- Main Activity -->
+        <string name="btn_lbl_main_online">Online</string>
+
+        <!-- Online Activity -->
+        <string name="btn_lbl_online_profile">Profile</string>
+        <string name="btn_lbl_online_new">New game</string>
+        <string name="btn_lbl_online_dive">Dive in</string>
+        <string name="btn_lbl_online_gallery">Gallery</string>
+        <string name="btn_lbl_online_log_out">Log out</string>
+
+    <!-- ============== -->
+    <!-- Dialog strings -->
+    <!-- ============== -->
+        <!-- Not signed in dialog -->
+        <string name="txt_dialog_log_in">Log in</string>
+        <string name="hint_dialog_name">Username</string>
+        <string name="hint_dialog_pass">Password</string>
+        <string name="hint_dialog_pass_verify">Verify password</string>
+        <string name="txt_dialog_sign_up">Sign up</string>
+        <string name="btn_lbl_dialog_submit">Submit</string>
+        <string name="txt_dialog_enter_sentence">Please enter a sentence</string>
+        <string name="txt_dialog_title_enter">Write your own sentence</string>
+
+    <!-- ============ -->
+    <!-- Game strings -->
+    <!-- ============ -->
+        <string name="hint_write_caption">Write a caption</string>
+        <string name="btn_lbl_submit">Submit</string>
+        <string name="btn_lbl_custom_sentence">Custom sentence</string>
+        <string name="btn_lbl_OK">OK</string>
+
+
+</resources>
